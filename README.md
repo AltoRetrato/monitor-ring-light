@@ -1,7 +1,9 @@
 # Monitor Ring Light
 
-<img src="https://raw.githubusercontent.com/AltoRetrato/monitor-ring-light/main/images/monitor_ring_light.jpg" width=435 height=326 alt="A monitor ring light">
-<img src="https://github.com/AltoRetrato/monitor-ring-light/blob/main/images/gui.png?raw=true" alt="Monitor ring light GUI">
+<p float="left">
+  <img src="https://raw.githubusercontent.com/AltoRetrato/monitor-ring-light/main/images/monitor_ring_light.jpg" width=435 height=326 alt="A monitor ring light">
+  <img src="https://github.com/AltoRetrato/monitor-ring-light/blob/main/images/gui.png?raw=true" alt="Monitor ring light GUI">
+</p>
 
 A custom ring light around a monitor, providing uniform lighting and custom color toning to video recordings and video meetings.
 Made with RGB LED Pixels (WS2801), ESP32, MicroPython and Dear PyGUI.
