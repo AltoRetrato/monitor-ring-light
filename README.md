@@ -23,8 +23,8 @@ The ESP32 board (ESP32-DevKitC V4) has a [MicroPython](https://micropython.org/)
 Obviously, check the details of your WS2801 LED strip before making any connections. I used the ESP32 hardware SPI pins:
 * 🔴 LED red cable: +5V
 * 🔵 LED blue cable: ground
-* 🟡 LED yellow cable (data): MOSI (ESP32 pin 13), though logic level converter
-* 🟢 LED green cable (clock): SCK  (ESP32 pin 14), though logic level converter
+* 🟡 LED yellow cable (data): MOSI (ESP32 pin 13), through logic level converter
+* 🟢 LED green cable (clock): SCK  (ESP32 pin 14), through logic level converter
 
 <img src="https://raw.githubusercontent.com/AltoRetrato/monitor-ring-light/main/images/circuit.png" alt="Connections" width=489 height=326>
 
